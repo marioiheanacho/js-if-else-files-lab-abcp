@@ -1,4 +1,4 @@
-var name = "Joe"
+var name = "Susan"
 var height = "74"
 
 
@@ -10,5 +10,5 @@ if (name === "Susan"){
   
 }else {
   
-  console.;og("Expected thename to be Susan")
+  console.log("Expected thename to be Susan")
 }
